@@ -22,4 +22,4 @@ The board has:
   - USB-C port
   - DS18B20 + a pin header to connect a second one, along with a pull-up resistor
 
-The BOM and the PCB board can be seen at [board.html](http://htmlpreview.github.io/?https://github.com/Mael-Le-Garrec/ESP-01S_thermometer/tree/v1.0.0/html/board.html)
+The BOM and the PCB board can be seen at [board.html](https://raw.githubusercontent.com/Mael-Le-Garrec/ESP-01S_thermometer/v1.0.0/html/board.html)
